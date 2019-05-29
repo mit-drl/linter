@@ -1,1 +1,2 @@
 1. create script to add to invoke setup_linter.sh, also change it so that it adds a newline and sources
+2. We will need to use pylint==1.9.4 for python2.7 compatibility
