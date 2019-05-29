@@ -1,0 +1,1 @@
+1. create script to add to invoke setup_linter.sh, also change it so that it adds a newline and sources
